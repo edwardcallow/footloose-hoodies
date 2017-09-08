@@ -1,3 +1,3 @@
-# footloose-hoodies
+# footloose-portal
 
-Order website for BSP Sixth Form Production 2017 hoodie orders.
+Portal for the BSP Sixth Form Production 2017.
